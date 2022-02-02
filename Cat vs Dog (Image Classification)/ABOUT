@@ -1,0 +1,6 @@
+The project "Password Generator", is a very handy python project which helps in providing passwords.
+In simpler words, the program basically provides with a password of various lengths with various combinations between upper case and lower case alphabets,
+combined with special characters and numeric values.
+
+The project is very basic but the fact that the passwords generated are so random and unpredictable,
+is what gives a slight cutting edge advantage over many situations.
