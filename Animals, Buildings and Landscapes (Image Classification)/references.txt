@@ -1,0 +1,17 @@
+Sites Reffered:
+1. https://economictimes.indiatimes.com/magazines/panache/computer-scientist-russell-kirsch-who-invented-pixel-passes-away-at-91/articleshow/77539556.cms
+2. https://www.thinkautomation.com/eli5/eli5-what-is-image-classification-in-deep-learning/
+3. https://towardsdatascience.com/machine-learning/home
+4. Definations = https://www.investopedia.com/terms/d/deep-learning.asp
+5. https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/
+6. https://www.rfwireless-world.com/Terminology/Advantages-and-Disadvantages-of-Deep-Learning.html
+7. https://www.google.com/imghp?hl=EN
+8. https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+9. https://www.analyticsinsight.net/innovative-industry-implementations-image-recognition-capabilities/
+
+Research Papers reffered:
+1. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: "Deep Residual Learning for Image Recognition", (Thu, 10 Dec 2015 19:51:55 UTC)
+2. Rashidedin Jahandideh, Alireza Tavakoli Targhi, Maryam Tahmasbi: "Physical Attribute Prediction Using Deep Residual Neural Networks", (Wed, 19 Dec 2018 10:19:19 UTC)
+3. Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang: "Residual Attention Network for Image Classification", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 3156-3164 
+4. Amin Fadaeddini, Mohammad Eshghi, Babak Majidi: "A Deep Residual Neural Network for Low Altitude Remote Sensing Image Classification", 2018 6th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS)
+5. Varun Arvind, Anthony Costa, Marcus Badgeley, Samuel Cho, Eric Oermann: "Wide and deep volumetric residual networks for volumetric image classification", Mon, 18 Sep 2017 04:30:13 UTC
