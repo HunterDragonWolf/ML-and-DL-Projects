@@ -1,0 +1,4 @@
+It has been very easy for all the bginers and ametuers to find classification models and their toturials
+online over the browsers or through youtube. I personally found it a little different to classify using not 2
+(which is pretty basic and readily available) but 3 classes. The images of animals, buildings and landscapes were taken on random,
+and the classification model using the RNN ideology was able to precisely and accurately (to maximum logical extent) classify the classes.
